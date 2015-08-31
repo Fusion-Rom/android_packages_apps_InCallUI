@@ -48,7 +48,7 @@
   <string name="menu_stop_record">עצור הקלטה</string>
   <string name="recording_time_text">מקליט</string>
   <string name="recording_warning_title">לאפשר הקלטת שיחה?</string>
-  <string name="recording_warning_text">שים לב: אתה אחראי לציות לכל חוקים, התקנות והכללים החלים על השימוש או ההפצה של הקלטות אלה.</string>
+  <string name="recording_warning_text">שימו לב: אתם אחראיים לציות לכל חוקים, התקנות והכללים החלים על השימוש באפשרות הקלטת השיחות, ו/או ההפצה של הקלטות אלה.</string>
   <string name="sub_1">SIM 1</string>
   <string name="sub_2">SIM 2</string>
   <string name="call_substate_call_resumed">שיחה חודשה</string>
